@@ -1,18 +1,22 @@
 {
   "name": "klever-react-xr",
   "version": "0.1.0",
+  "homepage": "https://https://kleverxr.github.io/",
   "private": true,
   "dependencies": {
+    "-": "^0.0.1",
     "@react-three/drei": "^9.5.3",
     "@react-three/fiber": "^8.0.12",
     "@react-three/xr": "^3.5.0",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^3.2.3",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "react-scripts": "5.0.1",
     "reactstrap": "^9.0.2",
+    "save-dev": "^0.0.1-security",
     "three": "^0.139.2",
     "three-stdlib": "^2.10.0",
     "web-vitals": "^2.1.4"
@@ -21,7 +25,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

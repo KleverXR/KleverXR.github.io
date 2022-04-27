@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "//kleverxr.github.io/static/css/main.9faaccf1.css",
-    "main.js": "//kleverxr.github.io/static/js/main.da541de8.js",
+    "main.js": "//kleverxr.github.io/static/js/main.2c9b58f0.js",
     "index.html": "//kleverxr.github.io/index.html",
     "main.9faaccf1.css.map": "//kleverxr.github.io/static/css/main.9faaccf1.css.map",
-    "main.da541de8.js.map": "//kleverxr.github.io/static/js/main.da541de8.js.map"
+    "main.2c9b58f0.js.map": "//kleverxr.github.io/static/js/main.2c9b58f0.js.map"
   },
   "entrypoints": [
     "static/css/main.9faaccf1.css",
-    "static/js/main.da541de8.js"
+    "static/js/main.2c9b58f0.js"
   ]
 }

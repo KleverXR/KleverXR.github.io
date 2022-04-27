@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//kleverxr.github.io/static/css/main.42515671.css",
+    "main.js": "//kleverxr.github.io/static/js/main.9b34fbab.js",
+    "index.html": "//kleverxr.github.io/index.html",
+    "main.42515671.css.map": "//kleverxr.github.io/static/css/main.42515671.css.map",
+    "main.9b34fbab.js.map": "//kleverxr.github.io/static/js/main.9b34fbab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42515671.css",
+    "static/js/main.9b34fbab.js"
+  ]
+}
